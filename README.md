@@ -11,7 +11,8 @@
 
 ## Screenshots
 
-![TaskFlow Screenshots](path/to/your/screenshots.png)
+<img src="https://github.com/user-attachments/assets/0138db54-1b17-4d53-9c18-4c77cda8adfc" alt="Screenshot" width="300"/>
+
 
 ## Installation
 
